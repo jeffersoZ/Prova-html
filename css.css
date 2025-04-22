@@ -41,7 +41,6 @@ body {
     height: 40px;
 }
 
-/* Conteúdo Principal */
 .conteudo {
     grid-area: main;
     padding: 30px;
